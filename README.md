@@ -1,16 +1,15 @@
-## Hi there 👋
+## 👋 Hi, I'm Francesco Davide Lapenta
 
-<!--
-**lapentad/lapentad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌐 [**lapentad.github.io**](https://lapentad.github.io/)
+- 🔭 Currently working on: 5G and telco cloud automation projects like Nephio.
+- 🌱 Currently learning: Advanced Kubernetes patterns, cloud-native CI/CD strategies, and ML integration in telecom systems.
+- 👯 Looking to collaborate on: Open-source projects in cloud infrastructure, backend systems, and automation tooling.
+- 🤔 Looking for help with: Scaling microservices efficiently in hybrid cloud environments and optimizing performance testing pipelines.
+- 💬 Ask me about: Java, Spring Boot, Kubernetes, DevOps, open-source contributions, and backend architecture.
+- ⚡ Fun fact: I built a client-server system for identifying Grampus Griseus (Risso’s dolphin) using computer vision during my BSc thesis, and I still maintain my own media server for fun and learning!
 
-Here are some ideas to get you started:
+![lapentad's Stats](https://github-readme-stats.vercel.app/api?username=lapentad&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![lapentad's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lapentad&theme=tokyonight&hide_border=false)
+
+![lapentad's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lapentad&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
