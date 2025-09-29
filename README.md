@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Francesco Davide Lapenta
 
-- 🌐 [**lapentad.github.io**](https://lapentad.github.io/)
+- 🌐 [**lapentad.is-a.dev**](https://lapentad.is-a.dev/)
 - 🔭 Currently working on: 5G and telco cloud automation projects like Nephio.
 - 🌱 Currently learning: Advanced Kubernetes patterns, cloud-native CI/CD strategies, and ML integration in telecom systems.
 - 👯 Looking to collaborate on: Open-source projects in cloud infrastructure, backend systems, and automation tooling.
