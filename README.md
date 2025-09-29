@@ -8,8 +8,8 @@
 - 💬 Ask me about: Java, Spring Boot, Kubernetes, DevOps, open-source contributions, and backend architecture.
 - ⚡ Fun fact: I built a client-server system for identifying Grampus Griseus (Risso’s dolphin) using computer vision during my BSc thesis, and I still maintain my own media server for fun and learning!
 
-![lapentad's Stats](https://github-readme-stats.vercel.app/api?username=lapentad&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-
 ![lapentad's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lapentad&theme=tokyonight&hide_border=false)
+
+![lapentad's Stats](https://github-readme-stats.vercel.app/api?username=lapentad&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
 ![lapentad's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lapentad&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
